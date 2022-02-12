@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=Luckiest+Guy&family=Roboto:wght@400;500&display=swap');
+
+
+
+.content { border-color:red;
+border-style: solid;}
+
+p {font-family: 'Roboto', sans-serif;}
+h2 {font-family: 'Bowlby One', cursive;}
+h1{font-family: 'Luckiest Guy', cursive;}
